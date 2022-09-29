@@ -1,5 +1,4 @@
 - Hej! I’m @JuliaPaciorek! ＼(＾▽＾)／
-- I’m interested in ML&AI specifically in healthcare.
 - I’m dual majoring in Data Science&Computer Science at UW Madison!
 - Currently looking for research opportunities in Madison.
 - You can reach me at juliampaciorek@gmail.com
