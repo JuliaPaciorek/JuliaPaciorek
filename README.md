@@ -1,4 +1,5 @@
 - Computer Science & Data Science @ UW ʕ￫ᴥ￩ʔ
+- Machine Vision intern @ SICK sensor intelligence
 - You can reach me at juliampaciorek@gmail.com or jpaciorek@wisc.edu
 
 <!---
