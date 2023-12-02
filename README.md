@@ -1,6 +1,4 @@
-- Hej! I’m @JuliaPaciorek! ＼(＾▽＾)／
-- I’m dual majoring in Data Science&Computer Science at UW Madison!
-- Currently publishing my first paper on machine learning methods used to aid diagnosis in neurological conditions
+- Computer Science & Data Science @ UW ʕ￫ᴥ￩ʔ
 - You can reach me at juliampaciorek@gmail.com or jpaciorek@wisc.edu
 
 <!---
